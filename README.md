@@ -10,7 +10,7 @@
 <br />
 
 
-I´m a skilled FullStack developer with more tha six years of experience. I´m currently working as a tech lead in projects related financial systems, fintechs and payment methods.
+I´m a skilled FullStack developer with large experience in big projects. I´m currently working as a tech lead in projects related financial systems, fintechs and payment methods.
 
 
 ### ✨ Quick Facts
