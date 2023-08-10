@@ -15,7 +15,6 @@ I´m a skilled FullStack developer with large experience in big projects. I´m c
 
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working on my unfinished projects AGAIN!!.
 - 💬 Ask me about anything.
 - 🎿 Hobbies other than coding : Travels, Beers with friends, Playing games, Movies, Reading articles about technologies.
 - 📫 How to reach me: andreluizximenes@gmail.com
